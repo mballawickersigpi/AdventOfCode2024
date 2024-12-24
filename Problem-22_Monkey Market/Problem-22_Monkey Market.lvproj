@@ -16,7 +16,6 @@
 		<Item Name="Utility" Type="Folder" URL="../../Utility">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="Mix Secret Number.vi" Type="VI" URL="../../Problem-21_Keypad Conundrum/Mix Secret Number.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
