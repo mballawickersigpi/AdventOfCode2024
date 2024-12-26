@@ -16,6 +16,7 @@
 		<Item Name="Utility" Type="Folder" URL="../../Utility">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="Move Robot on Grid.vi" Type="VI" URL="../../Problem-22_Monkey Market/Move Robot on Grid.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
